@@ -14,7 +14,7 @@ Web3 Talent Hub addresses several critical challenges within the traditional fre
 
 **5. Inefficient Selection Procedures:** Our platform reduces the time and complexity traditionally involved in hiring and project selection, minimizing service fees and maximizing efficiency.
 
-## How its work
+## How it work
 Web3 Talent Hub revolutionizes the freelancing experience through blockchain technology:
 
 **1. Smart Contract Employment:** We utilize smart contracts on the Polygon blockchain to allow clients to mint projects and professionals to tokenize their career information. 
@@ -68,6 +68,3 @@ Web3 Talent Hub revolutionizes the freelancing experience through blockchain tec
     npm run dev  # or yarn dev
 
 **5. Explore the app at** http://localhost:3000.
-
-## 🌐 Links
-- Live Demo: [https://gigiblock-social-hour-web3.vercel.app/]
