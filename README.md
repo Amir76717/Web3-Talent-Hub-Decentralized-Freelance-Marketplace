@@ -1,8 +1,6 @@
 # Web3-Talent-Hub-Decentralized-Freelance-Marketplace
 Web3 Talent Hub is an innovative decentralized platform designed to connect freelancers with opportunities in the rapidly growing Web3 space. Built using cutting-edge technologies such as Next.js, Chakra UI, and smart contracts, this platform facilitates a transparent, efficient, and secure marketplace environment.
 
-<p align="center"> <a href="https://gigiblock-social-hour-web3.vercel.app/" target="_blank"><img src="https://github.com/SabeloMkhwanzi/Gigiblock-social-hour-web3/blob/main/public/gigiblock-logo.png" alt="Web3 Talent Hub Logo"/></a> </p>
-
 # Problems We Are Solving
 Web3 Talent Hub addresses several critical challenges within the traditional freelance marketplace:
 
@@ -16,13 +14,18 @@ Web3 Talent Hub addresses several critical challenges within the traditional fre
 
 **5. Inefficient Selection Procedures:** Our platform reduces the time and complexity traditionally involved in hiring and project selection, minimizing service fees and maximizing efficiency.
 
-#### How its work
+# How its work
+Web3 Talent Hub revolutionizes the freelancing experience through blockchain technology:
 
-- We created a smart contract that allows a client to mint opened projects or skilled person to mint their information of career.
-- Unstoppable domain to login users or RainbowKit
-- That data is minted on the Polygon testnet, and than its store on a decentralized manner using IPFS and Nft.Storage.
-- Infomation is visiable to public, no extensive screening proces and Lengthy selection process, we are using the blockchain to pay only for gas fees on Polygon to process application and posted projects.
-- We than select our field of intrest or the talent for our project - Using XMTP (Extensible Message Transport Protoco) a open protocol and network for secure and private web3 messaging to connect and get more information on the applicants or the company - by only using you chain address to communicate.
+**1. Smart Contract Employment:** We utilize smart contracts on the Polygon blockchain to allow clients to mint projects and professionals to tokenize their career information. 
+
+**2. Decentralized Identity Verification:** Using Unstoppable Domains, users can log in securely, maintaining control over their identities.
+
+**3. Decentralized Data Storage:** All project and professional data are stored on IPFS and managed through NFT.Storage, ensuring data integrity and security in a decentralized manner.
+
+**4. Simplified Screening Process:** Our platform makes all information public yet secure, streamlining the screening process without the need for extensive background checks.
+
+**5. Efficient Communication:** We leverage XMTP (Extensible Message Transport Protocol), an open network for secure and private Web3 messaging, to facilitate direct communication between parties using blockchain addresses. 
 
 #### Building Stack
 
